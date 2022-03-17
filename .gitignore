@@ -1,0 +1,7 @@
+/.idea
+/.vscode
+/.vs
+/node_modules
+/vendor
+/config.php
+/data.json
